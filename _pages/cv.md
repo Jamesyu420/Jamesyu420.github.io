@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+For a detailed resume in PDF, see [CV.pdf](../files/CV_Baichen_Yu.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 2019-2023, B.Sc. in Statistics, School of Statistics, East China Normal University
+- 2023- , Ph.D. in Applied Economics (Statistics), Guanghua School of Management, Peking University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Working Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2021 07-08: Economic Analyst Intern 
+  * China Logistics Information Center, Beijing
+  * Calculate the national non-manufacturing PMI, and use X-13-ARIMA model to make seasonal adjustment.
+  * Apply time series models to analyze and interpret the real data in China economics using PMI.
+
+* 2022 07-08: Research Intern
+  * Department of Mathematics, HKUST, Hong Kong SAR 
+  * Summer research program advised by Prof. Can Yang
+  * Focus on the algorithm and coding of statistical machine learning, including regularization, probabilistic modeling its application in statistical genetics.
+
+Prizes
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ - Shanghai Outstanding Graduates (Summa Cum Laude) （上海市优秀毕业生）
+ - First-class scholarship of East China Normal University （华东师范大学优秀学生一等奖学金）
