@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/aboutmeBig.jpg)
 
-I am currently a first-year PhD student in Economics (Statistics) at Guanghua School of Management, Peking University. I obtained my Bachelor's degree in Statistics from School of Statistics, East China Normal University. My research interests lie in **Image Data Analysis**, **High-Dimensional Statistics**, and **Network Data Analysis**.
+I am currently a first-year PhD student in Economics (Statistics) at Guanghua School of Management, Peking University. I obtained my Bachelor's degree in Statistics from School of Statistics, East China Normal University. My research interests lie in **Image Data Analysis**, **High-Dimensional Statistics**, and **Network Modeling**.
 
 Education
 ======
@@ -23,4 +23,4 @@ Research Interests
 
 - Image Data Analysis
 - High-Dimensional Statistics
-- Network Data Analysis
+- Network Modeling
