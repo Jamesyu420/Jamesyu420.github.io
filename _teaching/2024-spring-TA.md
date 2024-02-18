@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/2024-spring-TA
 venue: "Guanghua School of Management, Peking University"
-date: 2023-09-16
+date: 2024-02-18
 location: "Beijing, China"
 ---
 
