@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/bigSelfie.jpg)
 
-I am currently a second-year PhD candidate in Economics (Statistics) at [Guanghua School of Management](https://www.gsm.pku.edu.cn), Peking University. I am fortunately advised by [Prof. Hansheng Wang](https://sites.google.com/view/hansheng). I obtained my Bachelor's degree in Statistics from School of Statistics, East China Normal University. My research interests lie in **Image Data Analysis**, **High-Dimensional Statistics**, and **Network Modeling**.
+I am currently a second-year PhD candidate in Economics (Statistics) at [Guanghua School of Management](https://www.gsm.pku.edu.cn), Peking University. I am fortunately advised by [Prof. Hansheng Wang](https://sites.google.com/view/hansheng). I obtained my Bachelor's degree in Statistics from School of Statistics, East China Normal University. My research interests lie in **Image Data Analysis**, **High-Dimensional Statistics**, and **Network Modeling**. I am particularly interested in the applications of statistics in **Computational Pathology** and **Industrial Manufacturing**.
 
 Education
 ======
@@ -24,3 +24,4 @@ Research Interests
 - Image Data Analysis
 - High-Dimensional Statistics
 - Network Modeling
+
