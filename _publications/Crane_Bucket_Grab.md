@@ -1,7 +1,7 @@
 ---
 title: "A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab"
 collection: publications
-permalink: /publication/Crane_Bucket_Grab
+permalink: /publications/Crane_Bucket_Grab
 date: 2024/10/13
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: ''
