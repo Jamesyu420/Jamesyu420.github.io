@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-|  Date | Conference  | Talk Topic  |
+|  Date | Conference  | Topic  |
 |---|---|---|
 | 2023/6/30-2023/7/3  |  [ICSA China Conference 2023](https://china2023.icsa.org/) |  Crane Bucket Grab |
 | 2023/8/18-2023/8/20  |  [第六届中国北区统计与优化研讨会](https://mp.weixin.qq.com/s/exCQi7J4aHlwrgjnsDdgWQ) |  Crane Bucket Grab |
@@ -22,3 +22,10 @@ redirect_from:
 | 2024/7/11-2024/7/14 | [The 2nd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com) | GMM for MIL |
 | 2024/7/17-2024/7/19 | [EcoSta 2024](https://www.cmstatistics.org/EcoSta2024/index.php) | GMM for MIL |
 | 2024/7/20-2024/7/21 | [The 17th China-R Conference](https://mp.weixin.qq.com/s/rGAdPHPYeVEm_kA-nFCnVw) | GMM for MIL |
+
+Online Talks
+======
+
+|  Date | Organizer  | Topic  | Recoding Link
+|---|---|---|
+| 2024/11/8  |  [CluBear](https://www.xiong99.com.cn) |  Crane Bucket Grab | TBA
