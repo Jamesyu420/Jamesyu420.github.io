@@ -28,4 +28,4 @@ Online Talks
 
 |  Date | Organizer  | Topic  | Recoding Link
 |---|---|---|
-| 2024/11/8  |  [CluBear](https://www.xiong99.com.cn) |  Crane Bucket Grab | TBA
+| 2024/11/8  |  [CluBear](https://www.xiong99.com.cn) |  Crane Bucket Grab | [Click Here](https://www.xiong99.com.cn/p/t_pc/course_pc_detail/video/v_672e0bf4e4b023c058a11bd8)
