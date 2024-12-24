@@ -21,9 +21,10 @@ Education
 Research Interests
 ======
 
-### Thereticial Statistics
+### Method and Theory
 
 - Spatial statistics
+- Multiple instance learning
 - Nonparametric and semiparametric statistics
 - High-dimensional statistics
 
