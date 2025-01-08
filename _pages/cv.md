@@ -34,3 +34,4 @@ Prizes
 ======
  - Shanghai Outstanding Graduates (Summa Cum Laude) （上海市优秀毕业生）
  - First-class scholarship of East China Normal University （华东师范大学优秀学生一等奖学金）
+ - Merit Student of Guanghua School of Management （光华管理学院三好学生）
