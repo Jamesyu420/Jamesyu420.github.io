@@ -22,6 +22,10 @@ redirect_from:
 | 2024/7/11-2024/7/14 | [The 2nd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com) | GMM for MIL |
 | 2024/7/17-2024/7/19 | [EcoSta 2024](https://www.cmstatistics.org/EcoSta2024/index.php) | GMM for MIL |
 | 2024/7/20-2024/7/21 | [The 17th China-R Conference](https://mp.weixin.qq.com/s/rGAdPHPYeVEm_kA-nFCnVw) | GMM for MIL |
+| 2025/4/18-2025/4/20 | [全国工业统计学教学研究会青年统计学家协会2025年年会暨第三届统计理论及其应用国际研讨会](https://mp.weixin.qq.com/s/FqglvcBVHSglWE2Qe1njuw) | SpatialGMM |
+| 2025/6/8 | [第二十六届京津冀青年概率统计研讨会](https://mp.weixin.qq.com/s/MTGu4xQ71HJQFcAJolfN5w) | SpatialGMM |
+| 2025/7/8-2025/7/10 | [第七届中国北区统计与优化研讨会](https://mp.weixin.qq.com/s/OrAAG0NWDAH9HEIerm34zQ) | SpatialGMM |
+
 
 Online Talks
 ======
