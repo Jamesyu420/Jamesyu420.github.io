@@ -18,7 +18,6 @@ Education
 
 - 2019-2023, B.Sc. in Statistics, School of Statistics, East China Normal University
 - 2023- , Ph.D. in Applied Economics (Statistics), Guanghua School of Management, Peking University
-- 2025.7-12, Visiting PG Student, Department of Mathematics, The Hong Kong University of Science and Technology
 
 Research Interests
 ======
