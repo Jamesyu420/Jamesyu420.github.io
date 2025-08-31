@@ -8,8 +8,6 @@ paperurl: 'https://doi.org/10.1016/j.engappai.2024.109481'
 citation: 'Shi, J., Zhu, X., Zhou, J., Yu, B., Wang, H., (2025), High-Dimensional Spatial Autoregression with Latent Factors By Diversified Projections, Journal of the American Statistical Association, just accepted.'
 ---
 
-<!-- [Preprint version link](https://arxiv.org/pdf/2410.10246)
-[Published version PDF](../files/CraneBucketGrab.pdf) -->
 
 ## Abstract
 
