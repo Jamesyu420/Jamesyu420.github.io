@@ -5,7 +5,7 @@ permalink: /publications/SGMM
 date: 2025/10/14
 venue: 'Biometrics'
 paperurl: 'https://doi.org/10.1093/biomtc/ujaf149'
-citation: 'Yu, B., Liu, J., and Wang, H., (2025), A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis, Biometrics, just accepted.'
+citation: 'Yu, B., Liu, J., and Wang, H., (2025), A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis, Biometrics, 81(4): ujaf149.'
 ---
 
 [Preprint version link](https://arxiv.org/pdf/2510.16421)

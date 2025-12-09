@@ -33,4 +33,4 @@ Online Talks
 |  Date | Organizer  | Topic  | Recoding Link
 |---|---|---|
 | 2024/11/8  |  [CluBear](https://www.xiong99.com.cn) |  [Crane Bucket Grab](https://mp.weixin.qq.com/s/bdz-uYge0q9QL8lRPqRo3w) | [Click Here](https://www.xiong99.com.cn/p/t_pc/course_pc_detail/video/v_672e0bf4e4b023c058a11bd8)
-| 2025/12/4  |  [CluBear](https://www.xiong99.com.cn) |  SpatialGMM | TBA
+| 2025/12/4  |  [CluBear](https://www.xiong99.com.cn) |  [SpatialGMM](https://mp.weixin.qq.com/s/e36DhhepczqDC0pWjhs2IA) | [Click Here](https://www.xiong99.com.cn/p/t_pc/course_pc_detail/video/v_6931a212e4b0694ca151d7aa)
