@@ -9,6 +9,7 @@ citation: 'Shi, J., Zhu, X., Zhou, J., Yu, B., Wang, H., (2025), High-Dimensiona
 ---
 
 [Preprint version link](https://arxiv.org/pdf/2509.00742)
+[Published version PDF](../files/FactorSAR.pdf)
 
 ## Abstract
 
