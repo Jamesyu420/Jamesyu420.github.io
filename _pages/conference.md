@@ -25,6 +25,7 @@ redirect_from:
 | 2025/4/18-2025/4/20 | [全国工业统计学教学研究会青年统计学家协会2025年年会暨第三届统计理论及其应用国际研讨会](https://mp.weixin.qq.com/s/FqglvcBVHSglWE2Qe1njuw) | SpatialGMM |
 | 2025/6/8 | [第二十六届京津冀青年概率统计研讨会](https://mp.weixin.qq.com/s/MTGu4xQ71HJQFcAJolfN5w) | SpatialGMM |
 | 2025/7/8-2025/7/10 | [第七届中国北区统计与优化研讨会](https://mp.weixin.qq.com/s/OrAAG0NWDAH9HEIerm34zQ) | SpatialGMM |
+| 2026/4/11 | [全国工业统计学教学研究会青年统计学家分会2026年年会](https://mp.weixin.qq.com/s/dHoc4LN7GlJsRw7j4mbRAQ) | GMM for MIL |
 
 
 Online Talks
