@@ -3,7 +3,7 @@ title: "Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially
 collection: publications
 permalink: /publications/PSMIL
 date: 2026/04/18
-venue: 'AoAS'
+venue: 'The Annals of Applied Statistics'
 # paperurl: 'https://doi.org/10.1093/biomtc/ujaf149'
 citation: 'Yu, B., Li, X., Zhou, J., and Wang, H., (2026), Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning, The Annals of Applied Statistics, To appear.'
 ---
