@@ -8,6 +8,7 @@ venue: 'The Annals of Applied Statistics'
 citation: 'Yu, B., Li, X., Zhou, J., and Wang, H., (2026), Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning, The Annals of Applied Statistics, To appear.'
 ---
 
+[Preprint version link](https://arxiv.org/pdf/2604.17254)
 
 ## Abstract
 
