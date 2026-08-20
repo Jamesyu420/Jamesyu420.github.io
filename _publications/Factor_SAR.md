@@ -5,7 +5,8 @@ permalink: /publications/Factor_SAR
 date: 2025/8/31
 venue: 'Journal of the American Statistical Association'
 paperurl: 'https://doi.org/10.1080/01621459.2025.2562644'
-citation: 'Shi, J., Zhu, X., Zhou, J., Yu, B., Wang, H., (2025), High-Dimensional Spatial Autoregression with Latent Factors By Diversified Projections, Journal of the American Statistical Association, just accepted.'
+citation: 'Shi, J., Zhu, X., Zhou, J., Yu, B., & Wang, H. (2026). High-Dimensional Spatial Autoregression with Latent Factors by Diversified Projections. Journal of the American Statistical Association, 121(554), 1232–1243.'
+
 ---
 
 [Preprint version link](https://arxiv.org/pdf/2509.00742)
