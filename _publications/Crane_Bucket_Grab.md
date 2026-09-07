@@ -5,7 +5,7 @@ permalink: /publications/Crane_Bucket_Grab
 date: 2024/10/13
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.engappai.2024.109481'
-citation: 'Yu, B., Wang, X., Wang, H., (2025), A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab. Engineering Applications of Artificial Intelligence, 139: 109481.'
+citation: 'Yu, B., Wang, X., and Wang, H. (2025), A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab. Engineering Applications of Artificial Intelligence, 139: 109481.'
 ---
 
 [Preprint version link](https://arxiv.org/pdf/2410.10246)
