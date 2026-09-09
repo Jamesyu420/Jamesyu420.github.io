@@ -5,13 +5,12 @@ permalink: /publications/VI-tutorial
 date: 2026/09/07
 venue: 'SLADS'
 paperurl: 'https://openreview.net/forum?id=U9fMA6omTP'
-citation: 'Yu, B., Tan, Z., Chu, H., and Yang, C. (2025), Variational Inference Methods for Single-Cell Genomics, Statistical Learning and Data Science, accepted.'
+citation: 'Yu, B., Tan, Z., Chu, H., and Yang, C. (2026), Variational Inference Methods for Single-Cell Genomics, Statistical Learning and Data Science, accepted.'
 ---
 
 [Openreview version](https://openreview.net/pdf?id=U9fMA6omTP)
 
 [Local version](../files/Variational_Inference_Tutorial.pdf)
-
 
 
 ## Abstract
