@@ -13,7 +13,7 @@ author_profile: true
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-<h2 class="page__title">Preprints and Working Papers</h2>
+<h2 class="page__title research-section-title">Preprints and Working Papers</h2>
 
 <ul>{% for post in site.preprints reversed %}
   {% include archive-single-cv.html %}

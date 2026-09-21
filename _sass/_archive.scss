@@ -27,6 +27,12 @@
   }
 }
 
+/* Match the Publications heading and separate the two research sections. */
+.archive .research-section-title {
+  font-size: $type-size-3;
+  margin-top: 1.5em;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

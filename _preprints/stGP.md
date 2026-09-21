@@ -2,7 +2,7 @@
 title: "Characterizing dynamic tissue architectures by identifying cell-type-specific spatiotemporal gene programs with stGP"
 collection: preprints
 # Use a unique permalink for each paper.
-permalink: /preprints/paper-slug/
+permalink: /preprints/stGP/
 date: 2026-09-20
 venue: 'Preprint'
 paperurl: 'https://www.biorxiv.org/content/10.64898/2026.07.03.736035v2'
